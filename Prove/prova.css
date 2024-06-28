@@ -2,3 +2,11 @@ body {
 	background-color: gray;
 	font-size: 130%;
 }
+
+h1{
+	color:bisque;
+	font-size: 20px;
+	widht: 20px;
+	background-color: black;
+	text-align: right;
+} 
