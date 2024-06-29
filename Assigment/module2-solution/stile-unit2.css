@@ -36,7 +36,8 @@ header {
     right: 0px;
     color: #fff;
     padding: 5px;
-    border: 1px solid #000;
+    border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
 }
 
 #title1 {
